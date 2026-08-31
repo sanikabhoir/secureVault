@@ -1,0 +1,17 @@
+# Compiled classes
+bin/
+*.class
+
+# Self-test / demo artifacts
+demo*.txt
+demo*.vault
+demo*.key
+demo*.sig
+
+# Anything else you generate while testing
+*.vault
+*.key
+*.sig
+
+# OS junk
+.DS_Store
